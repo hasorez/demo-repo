@@ -1,7 +1,7 @@
 # Demo
 
-Some text!
+This is a demo file for practising with git
 
 ## Subheader
 
-More text.
+I don't want to know anything about music
